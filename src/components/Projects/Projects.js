@@ -38,7 +38,7 @@ function Projects() {
               title="Facing My Darkness"
               description="Endless Runner platform game that takes the perspective of a small boy named Timmy who has experienced insecurities during his childhood, which have manifested as a shadow of himself through mirrors. Now, Timmy is being chased in his dreams by this very shadow."
               ghLink="https://github.com/SaulCamachoD/My-Darkness"
-              ItchLink="hhttps://joseph122.itch.io/facing-my-darkness"
+              ItchLink="https://joseph122.itch.io/facing-my-darkness"
             />
           </Col>
 
